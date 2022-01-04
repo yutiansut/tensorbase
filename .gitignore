@@ -13,3 +13,4 @@ Cargo.lock
 **/expanded_macro
 /tmp
 arrow-datafusion/*/target
+/data

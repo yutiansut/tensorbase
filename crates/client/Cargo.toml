@@ -2,7 +2,7 @@
 name = "client"
 version = "0.1.0"
 authors = ["dmitry dulesov <dmitry.dulesov@gmail.com>", "Jin Mingjian <jin.phd@gmail.com>"]
-edition = "2018"
+edition = "2021"
 
 [dependencies]
 clickhouse-driver-cthrs = { version = "0.1.1" }

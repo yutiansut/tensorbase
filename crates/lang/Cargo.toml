@@ -2,7 +2,7 @@
 name = "lang"
 version = "0.1.0"
 authors = ["TensorBase, and its contributors"]
-edition = "2018"
+edition = "2021"
 license = "Apache-2.0"
 
 [dependencies]
